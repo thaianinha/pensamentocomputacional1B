@@ -1,18 +1,18 @@
 
 body{
-    background-color: linen(87, 237, 237, 0.238)
+    background-color: rgb(237, 229, 229);
 }
 
 #titulo {
-    font-size: 30px
-    text-align: center;
- color:rgb (24, 3, 107);
+    font-size: 30px;
+text-align: center;
+color: rgb(101, 88, 185);
 
 }
 .text0 {
 text-align: center;
-color:azure;
-font-size: 20px
+color:black;
+font-size: 20px;
 
 
 }
